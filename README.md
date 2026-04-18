@@ -1,2 +1,2 @@
 # AlphaGomoku
-宇宙第一的五子棋AI。
+参考Alphazero开发的五子棋AI。
